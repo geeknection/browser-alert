@@ -1,1 +1,7 @@
+/*!
+Plugin Name: Browser Alert
+Author: Bruno Nascimento
+Author URI: https://brjnascimento.com
+Framework: https://buuhv.brjnascimento.com
+*/
 .box-alert{display:inline-block;margin:0 auto;position:fixed!important;transition:all .2s ease-in-out 0s;z-index:1060;width:100%;max-width:450px;text-align:center;opacity:0}.box-alert.show{opacity:1}.box-alert.top-center{top:20px;left:0;right:0}.box-alert.bottom-center{left:0;right:0;bottom:20px}.box-alert.top-left{top:20px;left:20px;right:0}.box-alert.top-right{top:20px;left:0;right:20px}.box-alert.bottom-left{bottom:20px;left:20px;right:0}.box-alert.bottom-right{bottom:20px;left:0;right:20px}
